@@ -1,6 +1,6 @@
 {
   "name": "ethical-noop-module-node",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Test mock node module for the Ethical framework.",
   "main": "./index.js",
   "scripts": {},
